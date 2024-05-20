@@ -6,7 +6,7 @@ Disciplina: Desenvolvimento Mobile com Flutter [24E2_2]
 
 Print tela HOME, inicial do aplicativo contendo a lista de tarefas
 
-<img src="fotosreadme/Telalisttarefas.png" alt="Lista de Tarefas">
+<img src="fotosreadme/Telalisttarefas.png" alt="Lista de Tarefas" style="width:200px;heigth:200px">
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
