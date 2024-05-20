@@ -1,12 +1,12 @@
-# auto_control_panel
+# Victor Pereira Aguiar
 
-A new Flutter project.
+Disciplina: Desenvolvimento Mobile com Flutter [24E2_2]
 
-## Getting Started
+## Prints do Funcionamento do aplicativo
 
-This project is a starting point for a Flutter application.
+Print tela HOME, inicial do aplicativo contendo a lista de tarefas
 
-A few resources to get you started if this is your first Flutter project:
+<img src="fotosreadme/Telalisttarefas.png" alt="Lista de Tarefas">
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
